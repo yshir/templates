@@ -2,7 +2,11 @@
 
 ## Prerequisites
 
+- [Git](https://git-scm.com/)
+
 ## Installation
+
+- `git clone https://github.com/***` this repository
 
 ## Configuring
 
